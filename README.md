@@ -1,16 +1,13 @@
-### Hi there 👋
+### I am senior golang dev and:
 
-<!--
-**waclawthedev/waclawthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏘️ Live in Poland
+- 📖 Have a blog on Medium: https://waclawthedev.medium.com
+- ➕ (Trying to) Have a time to take a part of opensource project
+- 🤔 Working on own opensource projects (see my account)
+- ❤️ Love Postgres, NATS, redis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My contacts:
+- 📨 waclawthedev@gmail.com
+- 🔗 https://www.linkedin.com/in/waclaw-shkurych
+- 🔗 https://twitter.com/waclawthedev
+- 🔗 https://www.instagram.com/waclawthedev
